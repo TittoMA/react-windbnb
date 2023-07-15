@@ -40,7 +40,7 @@
 
 ![screenshot](https://github.com/TittoMA/react-windbnb/blob/main/preview.png?raw=true)
 
-You can see the demo of this project [here](https://windbnb-tittoma.netlify.app/). In this project
+You can see the demo of this project [here](https://windbnb-tittoma.netlify.app/).
 It's quite fun and challenging when working on this project. For me, this project is excellent for practicing ui slicing and a little bit front end logic.
 
 ### Built With
